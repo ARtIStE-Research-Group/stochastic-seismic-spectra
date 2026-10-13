@@ -1,0 +1,27 @@
+{
+  "title": "SSS — Stochastic Seismic Spectra: MATLAB toolbox (beta01) and technical manual (v2.3-beta)",
+  "upload_type": "software",
+  "version": "beta01",
+  "license": "MIT",
+  "access_right": "open",
+  "creators": [
+    {"name": "Marano, Giuseppe Carlo"},
+    {"name": "Sardone, Laura"},
+    {"name": "Fiore, Alessandra"},
+    {"name": "Greco, Rita"},
+    {"name": "Datta, Gaurav"},
+    {"name": "Hajiha, Arman"}
+  ],
+  "description": "<p>SSS (Stochastic Seismic Spectra) is a research-oriented MATLAB toolbox for the time-domain random-vibration analysis of linear and equivalent-linearised Bouc–Wen single-degree-of-freedom systems under filtered (Kanai–Tajimi / Clough–Penzien), amplitude-modulated Gaussian seismic excitation. The state covariance is obtained from the evolutionary Lyapunov equation; the toolbox returns covariance histories of displacement, velocity and absolute acceleration, first-passage peak estimates, and mean energy histories.</p><p><strong>Contents:</strong> beta01 MATLAB source code (MIT License) and the v2.3-beta technical lecture notes and methodological report (CC BY 4.0).</p><p><strong>Note:</strong> the v2.3-beta manual documents features planned for later code releases (adaptive TR-BDF2 integration, covariance sensitivities, FOSM/SOSM uncertainty propagation, robust NSGA-II optimisation) that are not included in the beta01 code.</p>",
+  "keywords": [
+    "non-stationary random vibration",
+    "differential Lyapunov equation",
+    "stochastic seismic spectra",
+    "Bouc-Wen model",
+    "equivalent linearization",
+    "covariance analysis",
+    "earthquake engineering",
+    "MATLAB"
+  ],
+  "notes": "Code version beta01; manual version 2.3-beta. The manual is ahead of the code."
+}

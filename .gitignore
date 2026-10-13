@@ -1,0 +1,14 @@
+# MATLAB
+*.asv
+*.m~
+*.autosave
+*.mex*
+slprj/
+codegen/
+*.slxc
+# Results / data produced locally
+*.mat
+results/
+# OS
+.DS_Store
+Thumbs.db
