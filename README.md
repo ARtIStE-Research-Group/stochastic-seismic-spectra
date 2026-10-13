@@ -56,7 +56,7 @@ Giuseppe Carlo Marano, Laura Sardone, Alessandra Fiore, Rita Greco, Gaurav Datta
 
 ## How to cite
 
-Please cite the archived release via its Zenodo DOI (10.5281/zenodo.23336450), and the reference article:
+Please cite the archived release via its Zenodo DOI (10.5281/zenodo.23338165), and the reference article:
 
 Marano G.C. et al. (2026). *A systematic random-vibration framework for stochastic seismic spectra: kinematic and energy spectra of linear and hysteretic systems by covariance analysis.*
 
