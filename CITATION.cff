@@ -1,0 +1,38 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it using the metadata below."
+title: "SSS — Stochastic Seismic Spectra (MATLAB toolbox)"
+version: "beta01"
+date-released: "2026-10-13"   # TODO: set to the actual release date
+license: MIT
+type: software
+# TODO: add  orcid: "https://orcid.org/0000-0000-0000-0000"  and  affiliation: "..."  to each author
+authors:
+  - family-names: Marano
+    given-names: Giuseppe Carlo
+  - family-names: Sardone
+    given-names: Laura
+  - family-names: Fiore
+    given-names: Alessandra
+  - family-names: Greco
+    given-names: Rita
+  - family-names: Datta
+    given-names: Gaurav
+  - family-names: Hajiha
+    given-names: Arman
+keywords:
+  - non-stationary random vibration
+  - differential Lyapunov equation
+  - stochastic seismic spectra
+  - Bouc-Wen model
+  - equivalent linearization
+  - covariance analysis
+  - earthquake engineering
+  - MATLAB
+abstract: >-
+  MATLAB toolbox for the time-domain random-vibration analysis of linear and
+  equivalent-linearised Bouc-Wen SDOF systems under filtered,
+  amplitude-modulated Gaussian seismic excitation, via the evolutionary
+  Lyapunov covariance equation. Returns covariance histories, first-passage
+  peak estimates and mean energy histories. Released together with the
+  v2.3-beta technical manual, which also documents features planned for
+  later code versions.
